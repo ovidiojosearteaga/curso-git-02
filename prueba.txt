@@ -7,3 +7,6 @@ Esto es otro texto.
 Mi nombre es Ovidio Arteaga
 
 Comenzando con Git
+
+Commit multilinea
+Oto Commir
