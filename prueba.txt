@@ -22,3 +22,7 @@ Segunda linea de ajustes para la rama changes.
 Cambio en la rama changes.
 
 Cambio realizado en gitgub.
+
+Linea con ajuste que se va desde stash hasta una rama nueva.
+
+Segunda linea para la rama nueva.
