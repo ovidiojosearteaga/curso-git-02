@@ -28,3 +28,5 @@ Linea con ajuste que se va desde stash hasta una rama nueva.
 Segunda linea para la rama nueva.
 
 Tercera linea para la rama nueva.
+
+Esta linea arregla el issue #1
